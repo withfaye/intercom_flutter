@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.6.9
+
+* Bump Intercom iOS SDK version to 14.1.0
+* 
 ## 7.6.8
 
 * Added way to initialize the Intercom SDK in Android application class.
